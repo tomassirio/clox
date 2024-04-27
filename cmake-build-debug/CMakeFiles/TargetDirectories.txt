@@ -1,0 +1,3 @@
+/Users/tomassirio/CLionProjects/clox/cmake-build-debug/CMakeFiles/clox.dir
+/Users/tomassirio/CLionProjects/clox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomassirio/CLionProjects/clox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
