@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdint.h>
+#define DEBUG_PRINT_CODE
 #define DEBUNG_TRACE_EXECUTION
 
 #endif //CLOX_COMMON_H
